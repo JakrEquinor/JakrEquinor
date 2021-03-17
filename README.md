@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JakrEquinor
+- 👋 Hi, I’m Jan Henrik
 - 👀 I’m interested in some documents
 - 🌱 I’m currently learning ...
 - 💞️ .
